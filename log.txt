@@ -1,0 +1,3 @@
+ 5 5
+Das Ergebnis lautet: 5+5=10
+
